@@ -68,7 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Contactenos.aspx" />
-    <Content Include="css\img-paisaje.jpg" />
+    <Content Include="img\paisaje.jpg" />
     <Content Include="css\Styles.css" />
     <Content Include="default.aspx" />
     <Content Include="img\favicon.ico" />

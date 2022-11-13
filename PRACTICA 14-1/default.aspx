@@ -36,7 +36,7 @@
     </div>
   </div>
 </nav>
-<img src="img/img-paisaje.jpg" class="i" alt="..." />
+<img src="img/paisaje.jpg" class="img-fluid" alt="...">
 <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
