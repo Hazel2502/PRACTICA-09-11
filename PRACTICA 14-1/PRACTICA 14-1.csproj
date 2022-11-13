@@ -68,10 +68,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Contactenos.aspx" />
+    <Content Include="img\imagen.jpg" />
     <Content Include="img\paisaje.jpg" />
     <Content Include="css\Styles.css" />
     <Content Include="default.aspx" />
     <Content Include="img\favicon.ico" />
+    <Content Include="img\paso1.png" />
+    <Content Include="img\paso2.png" />
+    <Content Include="img\Pasos para crear un sitio web.png" />
+    <Content Include="img\programacion.png" />
     <Content Include="informacion.html" />
     <Content Include="js\functions.js" />
     <Content Include="Web.config" />
